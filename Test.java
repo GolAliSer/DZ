@@ -2,7 +2,7 @@ package DZ;
 
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.Assertions.assertEquals;
-import org.junit.platform.commons.util.Match;
+import org.junit.platform.commons.util.StringUtils;
 
 public class Test {
     @Test
